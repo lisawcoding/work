@@ -208,6 +208,9 @@ footer span, footer a{
         font-size: 5vw;
         color:#fff;
     }
+    .hamburger .fa-times{
+        display: none;
+    }
     .logo-container{
         display: flex;
         justify-content: space-between;
@@ -277,8 +280,12 @@ footer span, footer a{
 }
 
 /*classList##################################################################*/
-.show{
+.flex{
     display: flex;
 }
-
-
+.none{
+    display: none;
+}
+.block{
+    display: block;
+}
