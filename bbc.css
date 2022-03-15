@@ -277,6 +277,9 @@ footer span, footer a{
         display: block;
         border:none;
     }
+  footer * {
+    font-size: 1em
+  }
   #line {
     width: 90px;
     height: 90px;
