@@ -277,6 +277,10 @@ footer span, footer a{
         display: block;
         border:none;
     }
+  #line {
+    width: 90px;
+    height: 90px;
+  }
 }
 
 /*classList##################################################################*/
