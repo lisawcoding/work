@@ -279,7 +279,7 @@ footer span, footer a{
         border:none;
     }
   footer * {
-    font-size: 1em
+    font-size: 1em !important;
   }
   #line {
     width: 90px;
