@@ -284,6 +284,8 @@ footer span, footer a{
   #line {
     width: 90px;
     height: 90px;
+    top: unset;
+    bottom: 1.5em;
   }
 }
 
