@@ -265,10 +265,10 @@ footer span, footer a{
         width:100%;
     }
     .text{
-        font-size: 5vw;
+      
     }
     .text p:first-child{
-        font-size:4vw;
+    
     }
     #line{
         top:370px;
