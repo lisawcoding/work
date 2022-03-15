@@ -11,6 +11,10 @@ html, body{
         font-family: simhei, sans-serif;
 }
 
+body {
+  min-width: 500px
+}
+
 /*navbar**************************************************************************************************************/
 header{
     position: fixed;
