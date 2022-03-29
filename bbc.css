@@ -265,11 +265,11 @@ footer span, footer a{
     .photo{
         width:100%;
     }
-    .text{
-        font-size: 5vw;
-    }
     .text p:first-child{
-        font-size:4vw;
+        font-size:5vw;
+    }
+    .text p:last-child{
+        font-size:38.6px;
     }
     #line{
         top:370px;
