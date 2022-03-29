@@ -269,7 +269,8 @@ footer span, footer a{
         font-size:5vw;
     }
     .text p:last-child{
-        font-size:38.6px;
+/*         font-size:38.6px; */
+        font-size: 2em;
     }
     #line{
         top:370px;
@@ -279,7 +280,7 @@ footer span, footer a{
         border:none;
     }
   footer * {
-    font-size: 1em !important;
+    font-size: 5vw !important;
   }
   #line {
     width: 90px;
