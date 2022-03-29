@@ -287,7 +287,8 @@ footer span, footer a{
     font-size: 5vw !importnat;
   }
   footer h3 {
-    font-size: 38.6px
+/*     font-size: 38.6px */
+    font-size: 5vw;
   }
   #line {
     width: 90px;
