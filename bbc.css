@@ -305,3 +305,23 @@ footer span, footer a{
 .none{
     display: none;
 }
+
+
+.img-div {
+    display: flex;
+    flex-wrap: wrap;
+}
+.img-div div {
+    width: 50%;
+}
+.img-div img {
+    width: 100%;
+}
+.img-div .img-wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+img[src*="line"] {
+    fill: #00b900;
+}
