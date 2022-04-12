@@ -327,5 +327,10 @@ img[src*="line"] {
 
 fieldset {
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-evenly; */
+}
+fieldset > * {
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
