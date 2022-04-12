@@ -327,6 +327,7 @@ img[src*="line"] {
 
 fieldset {
     display: flex;
+    flex-wrap: nowrap;
     /* justify-content: space-evenly; */
 }
 fieldset > * {
