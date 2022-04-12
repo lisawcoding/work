@@ -324,3 +324,8 @@ footer span, footer a{
 img[src*="line"] {
     fill: #00b900;
 }
+
+fieldset {
+    display: flex;
+    justify-content: space-around;
+}

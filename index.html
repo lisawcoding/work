@@ -55,7 +55,24 @@
         <form  >
             <fieldset >
                 <label>
-                    <input type="date" name="date" />
+                    <input type="date" name="date" value="2022-04-01"disabled/>
+                </label>
+                <label>
+                    <input type="time" name="in" disabled/>
+                </label>
+                <label>
+                    <input type="time" name="out" disabled/>
+                </label>
+                <div className="btn-div">
+                    <AiOutlineEdit className="edit-btn" title="edit item" />
+                    <AiOutlineDelete title="delete item"/>
+                </div>
+            </fieldset>
+        </form>
+        <form  >
+            <fieldset >
+                <label>
+                    <input type="date" name="date" value="2022-04-01"/>
                 </label>
                 <label>
                     <input type="time" name="in" />
