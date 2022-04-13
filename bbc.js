@@ -26,4 +26,3 @@
                 times.style.display="none";
             }
         })
-        
