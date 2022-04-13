@@ -331,8 +331,8 @@ fieldset {
     justify-content: space-evenly;
 }
 fieldset > * {
-    width: 100%;
+    /* width: 100%;
     display: flex;
     justify-content: center;
-    box-sizing: border-box;
+    box-sizing: border-box; */
 }
